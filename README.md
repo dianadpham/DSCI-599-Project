@@ -1,5 +1,5 @@
 # DSCI 599 Final Project
-## Title: Feature Selection Using Information Gain for Anomaly Detection
+## Feature Selection Using Information Gain for Anomaly Detection
 ## Diana Pham
 
 ### Summary
